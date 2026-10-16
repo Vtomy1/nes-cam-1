@@ -1,0 +1,6 @@
+{
+  "name": "NEScam - Webcam to NES PPU ROM Generator",
+  "description": "Convert live webcam feed and images to authentic Nintendo Entertainment System (NES) PPU tiles, 2BPP planar CHR data, attribute tables, and bootable iNES ROM files with real-time dithering.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
